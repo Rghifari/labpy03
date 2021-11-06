@@ -20,7 +20,7 @@ untuk menyelesaikannya
 5. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
 6. Selesai
 
-# CONTOH OUTPUTUNYA
+# CONTOH OUTPUT
 
 ![GitHub Logo](1.PNG)
 
