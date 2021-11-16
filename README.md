@@ -6,7 +6,7 @@ Kelas   : TI.21.BA.1
 
 # labpy03
 # Latihan1
-![latihan1](https://user-images.githubusercontent.com/46749500/53287677-ee1b8c80-37b2-11e9-94ed-3cae74178a40.png)
+<img width="704" alt="LATIHAN1 03" src="https://user-images.githubusercontent.com/93661771/141990866-37f7d688-85b9-47db-99a6-8a499266fadf.PNG">
 
 # Codingan
 ```
@@ -31,10 +31,10 @@ print('Total perulangan : ' + str (hitung))
 ```
 
 # Hasil codingan
-![hasil codingan](https://user-images.githubusercontent.com/46749500/53287636-a9dbbc80-37b1-11e9-8043-13169152b9dd.png)
+<img width="945" alt="LATIHAN1 HASIL CODINGAN 03" src="https://user-images.githubusercontent.com/93661771/141991158-db2f08e1-85df-4954-9e00-24cda4572a3c.PNG">
 
 # Latihan2
-![latihan2](https://user-images.githubusercontent.com/46749500/53287784-d4c71000-37b3-11e9-9296-4b5b9b2ca9bf.png)
+<img width="704" alt="latihan 22" src="https://user-images.githubusercontent.com/93661771/141991276-1e600187-e1fb-4277-a040-87dd0012ef20.PNG">
 
 # Codingan
 ```
@@ -50,10 +50,10 @@ print("Bilangan Terbesar = ", max)
 input("\n")
 ```
 # Hasil Codingan
-![hasilcoding2](https://user-images.githubusercontent.com/46749500/53288065-d514da80-37b6-11e9-9627-613c44a72965.png)
+<img width="945" alt="hasil codingan 22" src="https://user-images.githubusercontent.com/93661771/141991386-6d020928-7b38-4c82-a782-80d46ec845e1.PNG">
 
 # Latihan3
-![program 1](https://user-images.githubusercontent.com/46749500/53288204-7a7c7e00-37b8-11e9-8730-80df3981e44e.png)
+<img width="704" alt="latihan 33" src="https://user-images.githubusercontent.com/93661771/141991550-6f351862-b5b1-4021-9e87-920eecc0e125.PNG">
 
 ```
 print("Menhitung laba perusahaan dengan modal Rp. 100.000.000")
@@ -84,6 +84,6 @@ input("\n")
 ```
 
 # Hasil Codingan
-![hasil codingan](https://user-images.githubusercontent.com/46749500/53288263-fbd41080-37b8-11e9-95f3-461481ab5974.png)
+<img width="946" alt="hasil codingan 33" src="https://user-images.githubusercontent.com/93661771/141991566-808c094b-0182-440b-b2bb-7ab8ea82faf3.PNG">
 
 # Sekian & Terimakasih
